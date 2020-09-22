@@ -1,0 +1,15 @@
+{
+    "id": "5f69c7a1256cf37f29ec951c",
+    "name": "s_01_get_sessions_by_email",
+    "run_as_authed_user": false,
+    "run_as_user_id": "",
+    "run_as_user_id_script_source": "",
+    "options": {
+        "httpMethod": "GET",
+        "secret": "pda",
+        "validationMethod": "SECRET_AS_QUERY_PARAM"
+    },
+    "respond_result": true,
+    "fetch_custom_user_data": false,
+    "create_user_on_auth": false
+}

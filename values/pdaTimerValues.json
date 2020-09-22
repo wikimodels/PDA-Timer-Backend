@@ -1,0 +1,9 @@
+{
+    "from_secret": false,
+    "id": "5f69bef2995a9051764ad357",
+    "name": "pdaTimerValues",
+    "value": {
+        "db": "pda-timer-sessions",
+        "sessions": "sessions"
+    }
+}

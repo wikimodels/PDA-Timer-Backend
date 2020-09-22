@@ -1,15 +1,15 @@
 {
-    "id": "5f69a5bbaa7bcc0d334def37",
-    "name": "webhook0",
+    "id": "5f69c7a1256cf37f29ec9557",
+    "name": "s_02_delete_session_by_id",
     "run_as_authed_user": false,
     "run_as_user_id": "",
     "run_as_user_id_script_source": "",
     "options": {
-        "httpMethod": "POST",
-        "validationMethod": "NO_VALIDATION"
+        "httpMethod": "GET",
+        "secret": "pda",
+        "validationMethod": "SECRET_AS_QUERY_PARAM"
     },
     "respond_result": true,
-    "disable_arg_logs": true,
     "fetch_custom_user_data": false,
     "create_user_on_auth": false
 }
