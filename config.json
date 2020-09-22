@@ -1,0 +1,14 @@
+{
+    "app_id": "pda-timer-app-wuvqg",
+    "config_version": 20200603,
+    "name": "PDA-Timer-App",
+    "location": "IE",
+    "deployment_model": "GLOBAL",
+    "security": {},
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    }
+}

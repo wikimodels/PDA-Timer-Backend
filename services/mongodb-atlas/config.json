@@ -1,0 +1,11 @@
+{
+    "id": "5f699fd174ea39958d9f711b",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "PDA-Timer-Cluster",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
